@@ -143,6 +143,6 @@ Este lab habilita acesso público **apenas para fins de aprendizado**. Em um amb
 ## 👩‍💻 Autor
 
 **Thais Farias**
-🔗 [LinkedIn](https://www.linkedin.com/in/seu-perfil) · 🐙 [GitHub](https://github.com/thaiscfarias-dev)
+🔗 [LinkedIn](www.linkedin.com/in/thaiscfarias) · 🐙 [GitHub](https://github.com/thaiscfarias-dev)
 
-Em transição de volta para TI, com foco em **Cloud** (infraestrutura e operações) e objetivo de longo prazo em **Cloud Security**. Estudando para a certificação **AWS Certified Cloud Practitioner**.
+Estudando para a certificação **AWS Certified Cloud Practitioner**.
