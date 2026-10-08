@@ -105,7 +105,7 @@ Ao atualizar a mesma URL, o conteúdo do objeto passou a carregar normalmente.
 ### 7. Listar o bucket via AWS CLI
 
 ```bash
-aws s3 ls s3://nome-do-seu-bucket
+aws s3 ls s3://s3-thais-farias-555599
 ```
 
 O comando retornou data, tamanho e nome do objeto enviado.
